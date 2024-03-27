@@ -1,9 +1,5 @@
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ipcgrdn&animation=twinkling&fontColor=000000&rotate=0"/> </h1>
 
-<div align="center">
-  <h3> 🫥 About Me 🫥 </h3>
-<p align="center"> 🔥 To be <b> Full Stack Developer</b> <br> from 🇰🇷 <b> Busan, South Korea</b>, <br /> and i'm in 🏫 <b> Pusan National University </b> </p>
-
 <table align="center" style="outline: none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ipcgrdn&show_icons=true&theme=radical" alt="ipcgrdn's GitHub stats"></td>
@@ -11,6 +7,12 @@
   </tr>
 </table>
 </div>
+
+<br />
+
+<div align="center">
+  <h3> 🫥 About Me 🫥 </h3>
+<p align="center"> 🔥 To be <b> Full Stack Developer</b> <br> from 🇰🇷 <b> Busan, South Korea</b>, <br /> and i'm in 🏫 <b> Pusan National University </b> </p>
 
 <br />
 
